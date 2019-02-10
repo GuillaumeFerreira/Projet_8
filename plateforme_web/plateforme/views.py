@@ -1,4 +1,9 @@
 from django.http import HttpResponse
+from .models import Test
 
 def index(request):
-    return HttpResponse("test premiere page django.")
+
+    test =Test.objects.create()
+
+
+    return HttpResponse(test.id)
