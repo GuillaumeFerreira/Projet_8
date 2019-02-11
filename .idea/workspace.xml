@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="022a67d0-f075-45f8-b175-c45ec6f2184e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
-    </list>
+    <list default="true" id="022a67d0-f075-45f8-b175-c45ec6f2184e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549862326790</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="delete pipfile">
+      <created>1549862775558</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1549862775558</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -366,7 +370,8 @@
     <MESSAGE value="creation de l environement virtuel" />
     <MESSAGE value="ajout d'un librairie requirement.txt" />
     <MESSAGE value="ajout pipfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout pipfile" />
+    <MESSAGE value="delete pipfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete pipfile" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/plateforme_web/manage.py">
