@@ -124,7 +124,7 @@ USE_TZ = False
 
 STATIC_URL = '/static/'
 
-INTERNAL_IPS=['0.0.0.0']
+
 
 
 # Static files settings
