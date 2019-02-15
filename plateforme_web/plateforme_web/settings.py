@@ -24,7 +24,7 @@ SECRET_KEY = '_mi-*&v07ibo=k=8s$8==d1+5(l-bb2#$_4@)6^@8-^mi*#!rq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://plateformeweb1.herokuapp.com/"]
 
 
 # Application definition
