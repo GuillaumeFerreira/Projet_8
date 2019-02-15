@@ -161,6 +161,13 @@
               <item name="plateforme_web" type="462c0819:PsiDirectoryNode" />
               <item name="plateforme_web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Projet_8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_8" type="462c0819:PsiDirectoryNode" />
+              <item name="plateforme_web" type="462c0819:PsiDirectoryNode" />
+              <item name="plateforme_web" type="462c0819:PsiDirectoryNode" />
+              <item name="staticfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>

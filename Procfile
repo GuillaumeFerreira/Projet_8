@@ -1,1 +1,1 @@
-web: python plateforme_web/manage.py runserver 0.0.0.0:5000
+web: web: gunicorn plateforme_web/manage.py 
