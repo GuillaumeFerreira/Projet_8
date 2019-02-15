@@ -1,1 +1,1 @@
-web: gunicorn plateforme_web.wsgi 
+web: python plateforme_web/manage.py 0.0.0.0
