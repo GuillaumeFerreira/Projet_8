@@ -1,1 +1,1 @@
-web: python plateforme_web\manage.py runserver 
+web: python plateforme_web/manage.py runserver 
