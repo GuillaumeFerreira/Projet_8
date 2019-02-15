@@ -1,1 +1,1 @@
-web: python plateforme_web/manage.py 0.0.0.0
+web: python plateforme_web/manage.py 0.0.0.0:8888
