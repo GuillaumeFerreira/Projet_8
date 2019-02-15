@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="022a67d0-f075-45f8-b175-c45ec6f2184e" name="Default Changelist" comment="essaie pour heroku" />
+    <list default="true" id="022a67d0-f075-45f8-b175-c45ec6f2184e" name="Default Changelist" comment="essaie pour heroku">
+      <change beforePath="$PROJECT_DIR$/plateforme_web/plateforme_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/plateforme_web/plateforme_web/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plateforme_web/plateforme_web/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="64" />
+            <state relative-caret-position="222">
+              <caret line="136" column="20" lean-forward="true" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -558,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plateforme_web/plateforme_web/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="64" />
+        <state relative-caret-position="222">
+          <caret line="136" column="20" lean-forward="true" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
         </state>
       </provider>
     </entry>
