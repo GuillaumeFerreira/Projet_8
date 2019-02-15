@@ -1,1 +1,1 @@
-web: web: gunicorn plateforme_web/manage.py 
+web: web: gunicorn manage.py  --log-file -
