@@ -24,7 +24,7 @@ SECRET_KEY = 'test'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://plateformeweb1.herokuapp.com/"]
+ALLOWED_HOSTS = ["127.0.0.1","0.0.0.0","https://plateformeweb1.herokuapp.com/"]
 
 
 # Application definition
@@ -81,7 +81,7 @@ DATABASES = {
         'USER': 'postgres',
         'PASSWORD': 'GuillaumeLaurie46',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '5434',
     }
 }
 
@@ -129,7 +129,7 @@ STATIC_URL = '/static/'
 
 # Static files settings
 
-PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+#PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 """
 STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 
