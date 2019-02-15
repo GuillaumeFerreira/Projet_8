@@ -24,7 +24,7 @@ SECRET_KEY = '_mi-*&v07ibo=k=8s$8==d1+5(l-bb2#$_4@)6^@8-^mi*#!rq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://plateformeweb1.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -123,9 +123,14 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
-# Static files settings
-PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+
+INTERNAL_IPS=['127.0.0.1']
+
 """
+# Static files settings
+
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+
 STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 
 # Extra places for collectstatic to find static files.
