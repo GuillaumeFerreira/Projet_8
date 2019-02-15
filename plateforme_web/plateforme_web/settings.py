@@ -24,7 +24,7 @@ SECRET_KEY = 'test'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1","0.0.0.0","https://plateformeweb1.herokuapp.com/"]
+ALLOWED_HOSTS = ["https://plateformeweb1.herokuapp.com/"]
 
 
 # Application definition
